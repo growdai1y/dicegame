@@ -16,7 +16,7 @@ public class DiceGame {
     die2.roll();
   }
 
-  public boolean won() {
+  public boolean isWon() {
     return (die1.getFaceValue() + die2.getFaceValue()) == numOfWinner;
   }
 }

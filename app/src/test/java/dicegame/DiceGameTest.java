@@ -22,7 +22,7 @@ class DiceGameTest {
         DiceGame game = new DiceGame(die1, die2, 7);
         game.play();
 
-        assertEquals(isWinner, game.won());
+        assertEquals(isWinner, game.isWon());
     }
 
     static Stream<Arguments> provideDicValues() {
