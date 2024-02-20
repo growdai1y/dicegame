@@ -8,7 +8,8 @@ DiceGame_Artifacts.xlsx
 
 강의중 언급한 숙련된 개발자는 서술 능력이 뛰어나다라는 부분을 알 게된 글이라 소개합니다.
 
-"The Theory behind Unit Testing by Michael Feathers."
+<details>
+<summary>The Theory behind Unit Testing by Michael Feathers.</summary>
 
 https://michaelfeathers.typepad.com/michael_feathers_blog/2008/06/the-flawed-theo.html
 
@@ -47,5 +48,5 @@ Steve가 이 접근 방식에 대해 이야기했을 때 괜찮은 아이디어�
 
 
 <a name="link1">[1]</a> '서술어'라고도 하며 문장 구성의 기본 골격이 되는 요소로서, 주어의 동작·상태·성질 따위를 서술하는 말을 가리킨다.
-
+</details>
 
